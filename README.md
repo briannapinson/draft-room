@@ -49,7 +49,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I really enjoyed making this app as its relevant to a game I play pretty often. The most difficult part was getting the CSS to appear the way I wanted it to, as I put in much more effort into it.
 
 ## License
 
